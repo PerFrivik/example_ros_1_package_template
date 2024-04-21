@@ -1,0 +1,3 @@
+catkin_create_pkg my_package roscpp std_msgs
+
+Use this command to create your package  

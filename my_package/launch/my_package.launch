@@ -1,0 +1,7 @@
+<launch>
+    <!-- Node launch -->
+    <node pkg="my_package" type="my_package_node" name="node_instance" output="screen">
+      <!-- You can add parameter settings here if needed -->
+    </node>
+</launch>
+  
