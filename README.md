@@ -1,6 +1,6 @@
 # Example ROS Package
 
-This repository contains an example ROS package that showcases basic ROS functionalities including subscribing and publishing messages. The primary purpose of this package is to serve as a learning tool for ROS beginners.
+This repository contains an example ROS package that showcases basic ROS functionalities including subscribing and publishing messages. The primary purpose of this package is to serve as a template that I use for quickly setting up new ROS packages/nodes, mainly because it saves time and effort when starting new projects..
 
 <!-- This README serves as a template that I use for quickly setting up new ROS packages/nodes, mainly because it saves time and effort when starting new projects. -->
 
