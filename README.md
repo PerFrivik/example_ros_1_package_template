@@ -18,4 +18,4 @@ Clone this repository into the `src` folder of your catkin workspace:
 
 ```bash
 cd ~/catkin_ws/src
-git clone https://github.com/yourusername/example_ros_package.git
+git clone git@github.com:PerFrivik/example_ros_1_package_template.git
