@@ -12,10 +12,4 @@ The node in this package subscribes to `input_topic`, processes incoming message
 
 Ensure you have a compatible version of ROS installed, preferably ROS Noetic, as this package was developed with that version.
 
-## Installation
 
-Clone this repository into the `src` folder of your catkin workspace:
-
-```bash
-cd ~/catkin_ws/src
-git clone git@github.com:PerFrivik/example_ros_1_package_template.git
